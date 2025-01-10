@@ -59,7 +59,7 @@ El proyecto **surgió** con el fin de analizar cómo se comportan diferentes IAs
 3. **OpenAI** (0.28)  
 4. **Clonar** este repositorio:
    ```bash
-   git clone https://github.com/moises60/.git
+   git clone https://github.com/moises60/Resolucion_de_Laberintos_ChatGPT_vs_BFS_DFS_A-_WallFollower.git
    ```
 > **Nota**: Si utilizas **Azure** u otros endpoints, ajusta las variables como `OPENAI_API_KEY`, `max_completion_tokens`, `temperature`, etc.
 
@@ -125,7 +125,7 @@ Laberinto level6.txt cargado. Iniciando escena de juego...
 Calculando ruta con A*...
 A*: Ruta con 19 celdas encontrada.
 Robot llegó al destino.
----
+
 ## licencia
 
 **Licencia MIT**.  
