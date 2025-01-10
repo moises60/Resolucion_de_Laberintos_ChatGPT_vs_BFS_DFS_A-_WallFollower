@@ -109,6 +109,7 @@ En nuestras pruebas:
 
 ### EJEMPLOS
 ![Nivel 1 ](docs/level1_gpt4o.png)
+
 Solicitando ruta a OpenAI...
 Respuesta de OpenAI: [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6), (2, 6), (3, 6), (4, 6), (5, 6), (6, 6)]
 OpenAI: ruta con 11 celdas.
