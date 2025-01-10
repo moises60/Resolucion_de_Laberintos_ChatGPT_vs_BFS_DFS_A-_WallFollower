@@ -116,12 +116,14 @@ OpenAI: ruta con 11 celdas.
 Robot llegó al destino.
 
 ![Nivel 2](docs/level2_o1_preview.png)
+
 Solicitando ruta a OpenAI...
 Respuesta de OpenAI: [(1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (2, 5), (3, 5), (3, 6), (4, 6), (5, 6), (6, 6)]
 OpenAI: ruta con 11 celdas.
 Robot llegó al destino.
 
 ![Nivel 6](docs/level6_A.png)
+
 Laberinto level6.txt cargado. Iniciando escena de juego...
 Calculando ruta con A*...
 A*: Ruta con 19 celdas encontrada.
